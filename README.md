@@ -11,3 +11,7 @@
 - 墨刀画原型
 - wepy编码
 - 我去测试
+
+## 项目需求
+
+![require](/imgs/weapp-wedding-photo.png)
